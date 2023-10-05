@@ -1,3 +1,4 @@
-ID,En,TT
-t1,"aaa, bbb","T1"
-t2,"c, d","T2"
+ID,En,Cn
+t1,"Click on the fruit, and the fruit of the same type connected to it will fall.","點選水果, 與其相連的相同水果就會落下"
+t2,There will be no points for collecting branches.,收集到樹枝不會算分喔
+t3,Points will be deducted for collecting stones.,收集到石頭會扣分喔
